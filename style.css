@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(102, 102, 244);
+    display: flex;
+    justify-content: center;
+}
+.box{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 50vw;
+    height: 640px;
+    
+}
+.box2{
+    background-color: rgb(218, 212, 212);
+    width: 550px;
+    margin-bottom: 30px;
+   padding-left: 30px;
+}
+.box3{
+    background-color: rgb(218, 212, 212);
+    width: 550px;
+    margin-bottom: 30px;
+   padding-left: 30px;
+}
+   .box4{
+     background-color: rgb(218, 212, 212);
+    width: 550px;
+    margin-bottom: 30px;
+   padding-left: 30px;
+   }
+.box5{
+         background-color: rgb(218, 212, 212);
+    width: 550px;
+    margin-bottom: 30px;
+   padding-left: 30px;
+}
+.submit{
+    background-color: rgb(124, 124, 243);
+    color: white;
+    width: 180px;
+    text-align: center;
+}
